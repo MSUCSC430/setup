@@ -8,3 +8,7 @@ In order to work on these assignments, you will need to make sure that your syst
 
 Once you have all of the above completed, you will need to fork assignments so that you have your own (**private**) repository and then implement the solution to the assignment. You will be able to use Travis to make sure that what you have committed is building and testing properly so there won't be any surprises when you're graded.
 
+## Note About Academic Honesty
+
+You should keep your code and repositories private and should not be sharing code under any circumstances. Also, when forking your projects, you should make sure the repository is set to *private* and you should immediately remove the classes team *AllThePeople* from your project so that I will be the only person who can access your code other than you! If you do not do this and check in large amounts of code, I will consider this a violation of the academic honesty policies of MSU.
+
